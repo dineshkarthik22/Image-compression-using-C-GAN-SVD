@@ -1,4 +1,4 @@
-# Image Compression using Singular Valued Decomposition
+# Image Compression using Generative AI
 Dinesh Karthikeyan
 Nov 28, 2023
 
@@ -6,7 +6,7 @@ Nov 28, 2023
 
 Image Compression is the process of reducing the size of the image without significantly compromising its visual quality. This is essential for various applications, including storage, transmission and efficient utilization of resources. 
 
-In this project, we explore the conventional linear algebra-based approach as well as the state-of-the-art approach for image compression. The comparison of Singular Value Decomposition (SVD) with the SOTA approach of using High Fidelity Generative Compression.
+In this project, we explore the conventional linear algebra-based approach as well as the state-of-the-art approach for image compression. The comparison of Singular Value Decomposition (SVD) with the SOTA approach of using High Fidelity Generative Compression using Generative AI model.
 
 ## Instructions to run the project
 
